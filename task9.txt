@@ -1,5 +1,8 @@
 c1
 branch master
 c2
-branch test
+branch master
 c4
+branch test
+c5
+branch test
